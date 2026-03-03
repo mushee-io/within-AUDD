@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  @apply bg-midnight-950 text-white antialiased;
+}
+
+::selection {
+  background: rgba(255, 45, 85, .35);
+}
+
+a { @apply text-white/90 hover:text-white; }
