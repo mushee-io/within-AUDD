@@ -1,4 +1,4 @@
-# Mushee — (AUDD)
+# Mushee = (AUDD)
 
 A sleek demo UI for Mushee: gasless-style AUD settlement and a live rates panel (AUDD vs USD/GBP/ETH/BTC).
 
